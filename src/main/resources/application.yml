@@ -1,0 +1,4 @@
+#Property File
+Spring:
+  application:
+    name: LibraryManagementSystem
